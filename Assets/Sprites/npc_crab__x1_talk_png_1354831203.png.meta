@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 529129f84b5cbf64081a68df2beb61d5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_crab__x1_talk_png_1354831203_0
+    21300002: npc_crab__x1_talk_png_1354831203_1
+    21300004: npc_crab__x1_talk_png_1354831203_2
+    21300006: npc_crab__x1_talk_png_1354831203_3
+    21300008: npc_crab__x1_talk_png_1354831203_4
+    21300010: npc_crab__x1_talk_png_1354831203_5
+    21300012: npc_crab__x1_talk_png_1354831203_6
+    21300014: npc_crab__x1_talk_png_1354831203_7
+    21300016: npc_crab__x1_talk_png_1354831203_8
+    21300018: npc_crab__x1_talk_png_1354831203_9
+    21300020: npc_crab__x1_talk_png_1354831203_10
+    21300022: npc_crab__x1_talk_png_1354831203_11
+    21300024: npc_crab__x1_talk_png_1354831203_12
+    21300026: npc_crab__x1_talk_png_1354831203_13
+    21300028: npc_crab__x1_talk_png_1354831203_14
+    21300030: npc_crab__x1_talk_png_1354831203_15
+    21300032: npc_crab__x1_talk_png_1354831203_16
+    21300034: npc_crab__x1_talk_png_1354831203_17
+    21300036: npc_crab__x1_talk_png_1354831203_18
+    21300038: npc_crab__x1_talk_png_1354831203_19
+    21300040: npc_crab__x1_talk_png_1354831203_20
+    21300042: npc_crab__x1_talk_png_1354831203_21
+    21300044: npc_crab__x1_talk_png_1354831203_22
+    21300046: npc_crab__x1_talk_png_1354831203_23
+    21300048: npc_crab__x1_talk_png_1354831203_24
+    21300050: npc_crab__x1_talk_png_1354831203_25
+    21300052: npc_crab__x1_talk_png_1354831203_26
+    21300054: npc_crab__x1_talk_png_1354831203_27
+    21300056: npc_crab__x1_talk_png_1354831203_28
+    21300058: npc_crab__x1_talk_png_1354831203_29
+    21300060: npc_crab__x1_talk_png_1354831203_30
+    21300062: npc_crab__x1_talk_png_1354831203_31
+    21300064: npc_crab__x1_talk_png_1354831203_32
+    21300066: npc_crab__x1_talk_png_1354831203_33
+    21300068: npc_crab__x1_talk_png_1354831203_34
+    21300070: npc_crab__x1_talk_png_1354831203_35
+    21300072: npc_crab__x1_talk_png_1354831203_36
+    21300074: npc_crab__x1_talk_png_1354831203_37
+    21300076: npc_crab__x1_talk_png_1354831203_38
+    21300078: npc_crab__x1_talk_png_1354831203_39
+    21300080: npc_crab__x1_talk_png_1354831203_40
+    21300082: npc_crab__x1_talk_png_1354831203_41
+    21300084: npc_crab__x1_talk_png_1354831203_42
+    21300086: npc_crab__x1_talk_png_1354831203_43
+    21300088: npc_crab__x1_talk_png_1354831203_44
+    21300090: npc_crab__x1_talk_png_1354831203_45
+    21300092: npc_crab__x1_talk_png_1354831203_46
+    21300094: npc_crab__x1_talk_png_1354831203_47
+    21300096: npc_crab__x1_talk_png_1354831203_48
+    21300098: npc_crab__x1_talk_png_1354831203_49
+    21300100: npc_crab__x1_talk_png_1354831203_50
+    21300102: npc_crab__x1_talk_png_1354831203_51
+    21300104: npc_crab__x1_talk_png_1354831203_52
+    21300106: npc_crab__x1_talk_png_1354831203_53
+    21300108: npc_crab__x1_talk_png_1354831203_54
+    21300110: npc_crab__x1_talk_png_1354831203_55
+    21300112: npc_crab__x1_talk_png_1354831203_56
+    21300114: npc_crab__x1_talk_png_1354831203_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_crab__x1_talk_png_1354831203_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1033
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1033
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1033
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1033
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1033
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1033
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1033
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 904
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 904
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 904
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 904
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 904
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_12
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 904
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_13
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 904
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 775
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 775
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 775
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 775
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_18
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 775
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_19
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 775
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_20
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 775
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 646
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 646
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 646
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 646
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_25
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 646
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_26
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 646
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 646
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 517
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 517
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 517
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 517
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 517
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_33
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 517
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_34
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 517
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 388
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 388
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 388
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 388
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_39
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 388
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_40
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 388
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_41
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 388
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 259
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 259
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_44
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 259
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 259
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_46
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 259
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_47
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 259
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_48
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 259
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 130
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_50
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 130
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 130
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_53
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 130
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_54
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 130
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_55
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 130
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_crab__x1_talk_png_1354831203_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
