@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: c4e0cf8cffadfe44c9b864a6c13235a2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_deimaginator__x1_walk_png_1354836023_0
+    21300002: npc_deimaginator__x1_walk_png_1354836023_1
+    21300004: npc_deimaginator__x1_walk_png_1354836023_2
+    21300006: npc_deimaginator__x1_walk_png_1354836023_3
+    21300008: npc_deimaginator__x1_walk_png_1354836023_4
+    21300010: npc_deimaginator__x1_walk_png_1354836023_5
+    21300012: npc_deimaginator__x1_walk_png_1354836023_6
+    21300014: npc_deimaginator__x1_walk_png_1354836023_7
+    21300016: npc_deimaginator__x1_walk_png_1354836023_8
+    21300018: npc_deimaginator__x1_walk_png_1354836023_9
+    21300020: npc_deimaginator__x1_walk_png_1354836023_10
+    21300022: npc_deimaginator__x1_walk_png_1354836023_11
+    21300024: npc_deimaginator__x1_walk_png_1354836023_12
+    21300026: npc_deimaginator__x1_walk_png_1354836023_13
+    21300028: npc_deimaginator__x1_walk_png_1354836023_14
+    21300030: npc_deimaginator__x1_walk_png_1354836023_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_deimaginator__x1_walk_png_1354836023_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 950
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 950
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 951
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 765
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 766
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_5
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 767
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 583
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 583
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 583
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 396
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 393
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 393
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 208
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 206
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 205
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_deimaginator__x1_walk_png_1354836023_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 19
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
